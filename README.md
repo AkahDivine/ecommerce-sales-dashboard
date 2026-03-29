@@ -1,4 +1,4 @@
-# ecommerce-sales-dashboard
+# Ecommerce-sales-dashboard
 
 A data analytics project that simulates a real-world e-commerce business, focusing on data cleaning, transformation, and performance analysis. This repository contains structured SQL workflows used to validate, clean, and prepare datasets across customers, orders, products, and employees.
 
