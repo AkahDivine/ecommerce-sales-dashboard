@@ -1,0 +1,51 @@
+employee_id,employee_name,gender,department,salary,hire_date
+1, JEREMY MORSE ,F,Sales,2985.59,2022-12-10
+2, CHRISTIAN SULLIVAN ,male,Sales,6887.45,2022-05-16
+3, justin strickland ,M,Sales,5991.18,2025-01-20
+4, JASON BLAIR ,male,Sales,5138.39,2022-01-22
+5, sarah fuentes ,female,Sales,4152.98,2023-12-17
+6,robert austin,F,Sales,7263.2,2024-10-15
+7, william zuniga ,female,Sales,4354.67,2022-10-31
+8, greg mosley ,F,Sales,6899.6,2023-07-30
+9, Derek Smith ,M,Sales,4634.81,2025-02-12
+10, TIFFANY HALL ,male,Sales,4261.67,2023-12-21
+11,charles jackson,male,Sales,4776.08,2021-07-21
+12, JESSICA FLOYD ,M,Sales,3808.27,2025-11-21
+13,JAMES CLARK MD,male,Sales,6485.66,2026-02-28
+14,benjamin patterson md,female,Sales,5016.32,2026-03-03
+15, david matthews ,M,Sales,3393.28,2021-11-06
+16,LINDA CAMPBELL,female,Sales,7397.45,2023-08-31
+17, Patrick Conner ,F,Sales,4303.35,2021-08-15
+18, CODY LEE ,male,Sales,5261.32,2024-02-28
+19, Mrs. Kristen Booth ,female,Sales,7438.83,2021-05-22
+20,kyle ortiz,male,Sales,5745.43,2022-05-14
+21,MARGARET DURHAM,F,Finance,2701.39,2024-09-23
+22, victor kim ,male,IT,7638.99,2025-04-20
+23,brandon ramirez,F,HR,5766.25,2021-08-05
+24,erika stevens,M,IT,4009.43,2024-10-13
+25, andrew williams ,male,Manager,2835.63,2021-07-21
+26,ASHLEY CLAYTON,M,Operations,6764.15,2022-08-29
+27,john rogers,F,HR,5720.44,2022-01-26
+28,lisa nixon,M,Finance,5200.77,2025-10-24
+29, shannon guzman ,female,IT,7363.36,2021-06-04
+30,christopher anderson,M,HR,6731.58,2025-02-17
+31, Jose Vang ,female,Finance,2910.05,2021-12-25
+32,christopher harris,F,Operations,3870.33,2024-05-19
+33,Justin Valencia,F,Operations,3490.93,2024-11-19
+34, olivia martinez ,male,HR,6463.68,2025-09-19
+35,steven brooks,female,HR,2201.19,2022-08-04
+36,cody king,male,Finance,5419.34,2022-02-23
+37, JOSHUA FERGUSON ,male,IT,6574.75,2024-11-06
+38,JOSE RAY,F,Manager,7260.59,2024-11-26
+39, thomas nguyen ,M,IT,4052.49,2022-11-30
+40,KELLI CASTRO,F,Finance,6927.54,2022-09-03
+41, Linda Hicks ,F,HR,2663.79,2021-04-29
+42,ERICA KEMP,M,Manager,7078.71,2025-07-20
+43,MELISSA GONZALES,female,IT,2764.93,2021-03-31
+44, CHARLES SNOW ,female,IT,4383.72,2021-03-28
+45,LISA PHILLIPS,M,HR,6783.77,2024-09-08
+46,Susan Perry DDS,M,Finance,2899.5,2022-02-04
+47, stephanie lee ,male,HR,3375.51,2022-07-14
+48,john mcgee,M,HR,6333.52,2021-08-15
+49, Virginia Fox ,M,Operations,6320.22,2025-02-10
+50, EDWIN JENKINS ,male,Finance,5846.89,2023-06-28
