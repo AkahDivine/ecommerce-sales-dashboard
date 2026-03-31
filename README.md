@@ -89,7 +89,7 @@ This project demonstrates an **end-to-end workflow** from raw data → cleaned d
 
 Detailed steps and logic can be found in the repo:
 - 📂 Dataset: [datasets](./datasets)
-- 📜 SQL Scripts: [scripts](./scripts)
+- 📜 SQL Scripts: [Scripts](./Scripts)
   
 ---
 
