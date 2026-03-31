@@ -36,7 +36,7 @@ This project demonstrates an **end-to-end workflow** from raw data → cleaned d
 * Order status distribution
 
 📷 *Dashboard Preview:*
-*(Add image here)*
+![Sales Overview Dashboard](media/sales_overview.png)
 
 ---
 
@@ -47,13 +47,13 @@ This project demonstrates an **end-to-end workflow** from raw data → cleaned d
 * Includes customer, product, and order data
 
 📷 *Dashboard Preview:*
-*(Add image here)*
+![Sales Details Dashboard](media/sales_details.png)
 
 ---
 
 ## 🔗 Live Dashboard
 
-👉 *(Add Power BI Service link here)*
+ 👉 [Click To View Live Dashboard](https://app.powerbi.com/groups/me/reports/b603f702-cf7c-4031-992a-271a9fc17f48?ctid=6856eed6-b8b2-4e6f-a212-806bf9d2e509&pbi_source=linkShare)
 
 ---
 
@@ -88,20 +88,14 @@ This project demonstrates an **end-to-end workflow** from raw data → cleaned d
 ## 📘 Documentation
 
 Detailed steps and logic can be found in the repo:
-
-* Dataset → `/dataset`
-* SQL scripts → `/scripts`
-
+- 📂 Dataset: [datasets](./datasets)
+- 📜 SQL Scripts: [scripts](./scripts)
+  
 ---
 
 ## 👤 Author
 
-**Your Name**
-Data Analyst | Aspiring Data Engineer
+**Akah Divine**
+Data Analyst 
 
-* badges
-* metrics preview
-* portfolio-style layout
-
-Just tell me 👍
 
