@@ -95,7 +95,8 @@ Detailed steps and logic can be found in the repo:
 
 ## 👤 Author
 
-**Akah Divine**
+**Akah Divine** 
+|| 
 Data Analyst 
 
 
