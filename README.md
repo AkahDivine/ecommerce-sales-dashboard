@@ -1,13 +1,107 @@
-# Ecommerce-sales-dashboard
+# 📊 Ecommerce Sales Dashboard
 
-A data analytics project that simulates a real-world e-commerce business, focusing on data cleaning, transformation, and performance analysis. This repository contains structured SQL workflows used to validate, clean, and prepare datasets across customers, orders, products, and employees.
+A data analytics project simulating a real-world e-commerce business, focusing on **data cleaning, transformation, and performance analysis** using SQL and Power BI.
 
-The project demonstrates end-to-end data handling—from identifying data quality issues (nulls, duplicates, inconsistencies) to building cleaned tables and generating insights that support business decision-making. It is designed to reflect practical scenarios such as sales trends, customer behavior, and operational performance.
+This project demonstrates an **end-to-end workflow** from raw data → cleaned datasets → interactive dashboard for business insights.
 
-Key Features:
+---
 
-Data cleaning and validation using SQL
-Creation of cleaned, analysis-ready tables
-Handling of missing, inconsistent, and invalid data
-Standardization of categorical fields (e.g., gender, country, order status)
-Foundation for building dashboards and business insights
+## 🚀 Project Summary
+
+* Synthetic dataset (2020–2022)
+* Data cleaned and transformed using **PostgreSQL**
+* Analysis-ready tables created for reporting
+* Interactive dashboard built in **Power BI**
+* Project fully documented using **GitHub**
+
+---
+
+## 📌 Key Features
+
+* SQL-based data cleaning and validation
+* Handling of nulls, duplicates, and inconsistencies
+* Standardization of key fields (gender, country, order status)
+* KPI-driven Power BI dashboard
+* Drill-through for detailed transaction analysis
+
+---
+
+## 📊 Dashboard Overview
+
+### 🔹 Sales Overview
+
+* KPIs: Total Sales, Orders, Customers, AOV, %MoM
+* Sales trends (Online vs In-Store)
+* Sales by category, customer, and country
+* Order status distribution
+
+📷 *Dashboard Preview:*
+*(Add image here)*
+
+---
+
+### 🔹 Sales Details (Drill-through)
+
+* Detailed transaction-level view
+* Drill-through from product category
+* Includes customer, product, and order data
+
+📷 *Dashboard Preview:*
+*(Add image here)*
+
+---
+
+## 🔗 Live Dashboard
+
+👉 *(Add Power BI Service link here)*
+
+---
+
+## 🛠️ Tools Used
+
+* **SQL (PostgreSQL)**
+* **Power BI**
+* **GitHub**
+
+---
+
+## 🧠 Insights Covered
+
+* Sales trends over time
+* Customer behavior
+* Product performance
+* Online vs In-store comparison
+* Order completion vs cancellation
+
+---
+
+## ⚡ Why This Project
+
+* End-to-end data workflow
+* Realistic data cleaning process
+* Business-focused dashboard
+* Clean and modern design
+* Drill-through capability
+
+---
+
+## 📘 Documentation
+
+Detailed steps and logic can be found in the repo:
+
+* Dataset → `/dataset`
+* SQL scripts → `/scripts`
+
+---
+
+## 👤 Author
+
+**Your Name**
+Data Analyst | Aspiring Data Engineer
+
+* badges
+* metrics preview
+* portfolio-style layout
+
+Just tell me 👍
+
